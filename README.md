@@ -1,4 +1,9 @@
 # Algorithms Project
+
+This project was completed as part of the coursework for the course Algorithms during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University.
+
+This project, was aimed to develop an algorithm capable of identifying correlations among stocks based on historical stock price data. A special aspect of this work was the use of an optimized mathematical strategy instead of traditional graph theory.
+
 ## Software project : A Stock Market Analyzer 
 
 Final Release - Market Stock Correlation
